@@ -4,7 +4,8 @@
   <p>Hi There! I'm a BackEnd developer.</p>
   
   <h3>❤️ I love...</h3>
-  <p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
+  <p>💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games,&nbsp;&nbsp;✍️3D Modeling</p>
+   <a href="https://www.youtube.com/lamerhino3d"><img src="https://img.shields.io/badge/My&nbsp;youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <hr>
   <h3>🔥 Tech Stack 🔥</h3>
   <div>
@@ -26,6 +27,7 @@
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
   </div>
 </div>
+
 
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mailhyuil&show_icons=true&theme=tokyonight)
