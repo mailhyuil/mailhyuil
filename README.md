@@ -4,7 +4,7 @@
   <p>Hi There! I'm a BackEnd developer.</p>
   
   <h3>❤️ I love...</h3>
-  <p>💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games,&nbsp;&nbsp;✍️3D Modeling</p>
+  <p>💻Programming,&nbsp;&nbsp;✍️3D Modeling&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
    <a href="https://www.youtube.com/lamerhino3d"><img src="https://img.shields.io/badge/My youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://mailhyuil.github.io/"><img src="https://img.shields.io/badge/My blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <hr>
