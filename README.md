@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white">
   </div>
   <div>
     <img src="https://img.shields.io/badge/rhino3d-801010?style=for-the-badge&logo=rhinoceros&logoColor=white">
@@ -33,9 +33,11 @@
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
   </div>
 </div>
+<hr>
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
 
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mailhyuil&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailhyuil&layout=compact&theme=tokyonight)
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
+
