@@ -10,30 +10,40 @@
   <hr>
   <h3>🔥 Tech Stack 🔥</h3>
   <div>
-    <img src="https://img.shields.io/badge/Html5-E34F26?style=&logo=Html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=Html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=&logo=JavaScript&logoColor=black">
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=&logo=TypeScript&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61DAFB?style=&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=&logo=tailwindcss&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-000000?style=&logo=express&logoColor=white">
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/oracle-F80000?style=&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/hibernate-59666C?style=&logo=Hibernate&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/vue-4FC08D?style=&logo=Vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=&logo=Nuxt.js&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=&logo=Ionic&logoColor=white">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=&logo=NestJS&logoColor=white">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=&logo=Prisma&logoColor=white">
+    <img src="https://img.shields.io/badge/Lodash-3492FF?style=&logo=Lodash&logoColor=white">
+    <img src="https://img.shields.io/badge/RxJS-B7178C?style=&logo=ReactiveX&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/hibernate-59666C?style=&logo=Hibernate&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/postgresql-4169E1?style=&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/oracle-F80000?style=&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=&logo=mongodb&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Rust-000000?style=&logo=Rust&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=&logo=AmazonAWS&logoColor=black">
   </div>
   <p>+</p>
@@ -45,7 +55,6 @@
     <h3>🔥 I'm still studying.. 🔥</h3>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/postgresql-4169E1?style=&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/kotlin-7F52FF?style=&logo=kotlin&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=&logo=SpringSecurity&logoColor=white">
     </div>
