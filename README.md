@@ -13,13 +13,15 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=Html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=&logo=TypeScript&logoColor=white">
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=&logo=tailwindcss&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-FFFFFF?style=&logo=Angular&logoColor=red">
     <img src="https://img.shields.io/badge/vue-4FC08D?style=&logo=Vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Nuxt-00DC82?style=&logo=Nuxt.js&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/Flutter-3880FF?style=&logo=Flutter&logoColor=white">
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=&logo=Ionic&logoColor=white">
   </div>
   <div>
@@ -42,9 +44,16 @@
     <img src="https://img.shields.io/badge/mongodb-47A248?style=&logo=mongodb&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Rust-000000?style=&logo=Rust&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/nginx-009639?style=&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=&logo=AmazonAWS&logoColor=black">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=&logo=apachekafka&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-F80000?style=&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Elasticstack-FCC624?style=&logo=elastic&logoColor=black">
   </div>
   <p>+</p>
   <div>
@@ -55,13 +64,7 @@
     <h3>🔥 I'm still studying.. 🔥</h3>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/kotlin-7F52FF?style=&logo=kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=&logo=SpringSecurity&logoColor=white">
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/linux-FCC624?style=&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/apache kafka-231F20?style=&logo=apachekafka&logoColor=white">
-      <img src="https://img.shields.io/badge/nginx-009639?style=&logo=nginx&logoColor=white">
+      <img src="https://img.shields.io/badge/Rust-000000?style=&logo=Rust&logoColor=white">
     </div>
   </div>
 </div>
