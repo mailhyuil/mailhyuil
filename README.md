@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=mailhyuil&fontSize=60)
 <div align="center">
 
-  <p>Hi There! I'm a BackEnd developer.</p>
+  <p>Hi There! I'm a Backend developer.</p>
   
   <h3>❤️ I love...</h3>
   <p>💻Programming,&nbsp;&nbsp;✍️3D Modeling&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
