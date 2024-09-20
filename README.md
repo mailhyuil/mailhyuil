@@ -25,13 +25,12 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=&logo=NestJS&logoColor=white">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=&logo=Prisma&logoColor=white">
     <img src="https://img.shields.io/badge/Postgresql-4169E1?style=&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-F80000?style=&logo=redis&logoColor=white">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Nginx-009639?style=&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-F80000?style=&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=&logo=AmazonAWS&logoColor=black">
   </div>
   <h3>🔥 What I Have Done Before.. 🔥</h3>
@@ -62,10 +61,12 @@
     <h3>🔥 What I'm Still Studying.. 🔥</h3>
   <div>
     <div>
+      <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=&logo=kubernetes&logoColor=white">
       <img src="https://img.shields.io/badge/Golang-FFFFFF?style=&logo=Go&logoColor=blue">
+      <img src="https://img.shields.io/badge/Python-F7DF1E?style=&logo=Python&logoColor=blue">
       <img src="https://img.shields.io/badge/Rust-801010?style=&logo=Rust&logoColor=white">
       <img src="https://img.shields.io/badge/Kafka-231F20?style=&logo=apachekafka&logoColor=white">
-      <img src="https://img.shields.io/badge/Elasticstack-FCC624?style=&logo=elastic&logoColor=black">
+      <img src="https://img.shields.io/badge/Elasticstack-03fcc6?style=&logo=elastic&logoColor=black">
     </div>
   </div>
 </div>
