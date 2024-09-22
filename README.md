@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=&logo=tailwindcss&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=&logo=NestJS&logoColor=white">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=&logo=Prisma&logoColor=white">
     <img src="https://img.shields.io/badge/Postgresql-4169E1?style=&logo=postgresql&logoColor=white">
@@ -43,18 +43,17 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=&logo=Hibernate&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=&logo=mongodb&logoColor=white">
   </div>
   <p>+</p>
   <div>
-    <img src="https://img.shields.io/badge/Rhino3d-801010?style=&logo=rhinoceros&logoColor=white">
+    <img src="https://img.shields.io/badge/Rhino3D-801010?style=&logo=rhinoceros&logoColor=white">
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=&logo=AdobeIllustrator&logoColor=white">
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=&logo=AdobePhotoshop&logoColor=white">
   </div>
