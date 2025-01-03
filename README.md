@@ -8,6 +8,9 @@
    <a href="https://www.youtube.com/lamerhino3d"><img src="https://img.shields.io/badge/My youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://mailhyuil.github.io/"><img src="https://img.shields.io/badge/My blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <hr>
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
+  <hr>
   <h3>🔥 Main Tech Stack 🔥</h3>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=Html5&logoColor=white">
