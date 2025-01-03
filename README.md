@@ -70,11 +70,12 @@
   </div>
 </div>
 <hr>
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer) -->
+
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/1952515e-41fc-4945-b4d7-95e67dfc74d7 "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
 
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mailhyuil&show_icons=true&theme=tokyonight)
