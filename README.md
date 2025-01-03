@@ -31,8 +31,10 @@
     <img src="https://img.shields.io/badge/Nginx-009639?style=&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-F80000?style=&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=&logo=AmazonAWS&logoColor=black">
   </div>
+  <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
   <h3>🔥 What I Have Done Before.. 🔥</h3>
   <div>
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=&logo=Vue.js&logoColor=white">
@@ -60,7 +62,6 @@
     <h3>🔥 What I'm Still Studying.. 🔥</h3>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=&logo=kubernetes&logoColor=white">
       <img src="https://img.shields.io/badge/Golang-FFFFFF?style=&logo=Go&logoColor=blue">
       <img src="https://img.shields.io/badge/Python-F7DF1E?style=&logo=Python&logoColor=blue">
       <img src="https://img.shields.io/badge/Rust-801010?style=&logo=Rust&logoColor=white">
@@ -71,11 +72,7 @@
 </div>
 <hr>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer) -->
-
-<!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/1952515e-41fc-4945-b4d7-95e67dfc74d7 "CKA: Certified Kubernetes Administrator")
-<!--END_SECTION:badges-->
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
 
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mailhyuil&show_icons=true&theme=tokyonight)
