@@ -75,6 +75,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
 
 #
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mailhyuil&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mailhyuil&layout=compact&theme=tokyonight)
 
