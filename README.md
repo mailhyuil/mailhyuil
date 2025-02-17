@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=&logo=TypeScript&logoColor=white">
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Langchain-1C3D3D?style=&logo=Langchain&logoColor=white">
     <img src="https://img.shields.io/badge/Angular-FFFFFF?style=&logo=Angular&logoColor=red">
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=&logo=Ionic&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=&logo=tailwindcss&logoColor=white">
