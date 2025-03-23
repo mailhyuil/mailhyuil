@@ -24,6 +24,7 @@
   <div>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=&logo=NestJS&logoColor=white">
+    <img src="https://img.shields.io/badge/Golang-FFFFFF?style=&logo=Go&logoColor=blue">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=&logo=Prisma&logoColor=white">
     <img src="https://img.shields.io/badge/Postgresql-4169E1?style=&logo=postgresql&logoColor=white">
   </div>
@@ -63,7 +64,6 @@
     <h3>🔥 What I'm Still Studying.. 🔥</h3>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/Golang-FFFFFF?style=&logo=Go&logoColor=blue">
       <img src="https://img.shields.io/badge/Python-F7DF1E?style=&logo=Python&logoColor=blue">
       <img src="https://img.shields.io/badge/Rust-801010?style=&logo=Rust&logoColor=white">
       <img src="https://img.shields.io/badge/Kafka-231F20?style=&logo=apachekafka&logoColor=white">
